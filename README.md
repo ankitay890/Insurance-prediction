@@ -1,1 +1,1 @@
-# Insurance-prediction-regression-
+# Insurance-prediction
